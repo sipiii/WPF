@@ -1,0 +1,5 @@
+﻿Server=localhost;
+Database=iskola;
+Uid=root;
+Pwd=;
+Port=3307;
